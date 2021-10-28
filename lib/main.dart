@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'Plant App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        fontFamily: 'Ubuntu',
         visualDensity: VisualDensity.adaptivePlatformDensity,
         scaffoldBackgroundColor: kBackgroundColor,
         primaryColor: kPrimaryColor,
